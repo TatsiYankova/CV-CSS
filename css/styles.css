@@ -1,0 +1,40 @@
+body {
+  background-color:#FDFAF6;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+}
+
+h1 {
+  color: #064420;
+    text-shadow:5px 5px 10px #CEE5D0;
+}
+
+h2, th {
+    color: #064420;
+  }
+
+h3 {
+    color: #064420;
+    text-decoration: underline;
+}
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color: #C060A1;
+}
+.circular{
+  border-radius: 100%;
+}
+img{
+    box-shadow: 1px 1px 15px #064420;
+}
+#prof {
+  font-size: 18px;
+}
